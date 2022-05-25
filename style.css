@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background: black;
+    color: rgb(43, 255, 0);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.1rem; 
+}
+
+.container {
+    margin: 10% auto;
+    width: 40%;
+}
+
+.box {
+    background: rgb(7, 7, 7);
+    padding: 1.2rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid rgb(4, 24, 0);
+}
+
+label, input {
+    display: block;
+}
